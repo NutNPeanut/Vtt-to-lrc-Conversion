@@ -20,3 +20,5 @@ WebVtt(.vtt) 파일을 자막(.lrc) 파일로 일괄 변환해주는 프로그�
 3. ![image](https://github.com/user-attachments/assets/ea58bcc2-32cf-4672-b6f9-85a1537be5b8)
 4. ![image](https://github.com/user-attachments/assets/28ad2e7b-303f-48c7-8fb6-c60fd7010b65)
 
+## 라이선스
+- MIT 라이선스
