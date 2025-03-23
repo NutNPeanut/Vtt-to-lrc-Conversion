@@ -8,6 +8,7 @@ WebVtt(.vtt) 파일을 자막(.lrc) 파일로 일괄 변환해주는 프로그�
 ## 기능
  - 선택한 폴더 (하위폴더 포함) 의 모든 .vtt 자막파일을 .lrc로 변환하여 추가
  - 2줄 이상의 자막은 1줄로 병합
+ - (.mp3.vtt), (.wav.vtt) 와 같은 파일명이 있을시 .mp3 .wav 확장자명은 제거 후 저장
 
 ## 사용법
 1. [Release](https://github.com/NutNPeanut/Vtt-to-lrc-Conversion/releases)에서 'Vtt_to_lrc_Convertor.exe' 다운로드
