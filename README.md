@@ -1,4 +1,4 @@
-# Vtt to lrc Convertor
+# Vtt to Lrc Convertor
 
 ## 소개
 WebVtt(.vtt) 파일을 자막(.lrc) 파일로 일괄 변환해주는 프로그램. 
